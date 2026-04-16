@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+boto3
+opencv-python
+pytesseract
+python-dotenv
+numpy
+pydantic
+httpx
+Pillow
+PyMuPDF
+sqlalchemy
+passlib[bcrypt]
+PyJWT
+email-validator
